@@ -130,4 +130,4 @@ Thanks goes to these wonderful people:
 
 ---
 
-> [@博客](https://nn.ci/) · [@GitHub](https://github.com/Xhofe) · [@Telegram群](https://t.me/alist_chat) · [@Discord](https://discord.gg/F4ymsH4xv2)
+
